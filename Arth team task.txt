@@ -1,0 +1,16 @@
+				ARTH TEAM TASK
+
+ Create a Menu Using Python integrating all the concepts that have been taught by Vimal sir till now.
+
+1) Automate docker creation 
+2) configuring webserver in base OS and in Doker container
+3) Creating Hadoop Cluster 
+4) Configure Name Node and Data node and client
+5) ML prediction of marks 
+6) Configure Aws instance 
+7) Aws cloudfront,S3,Ebs
+8) IAM user
+9) Create Partition in OS
+10) manipulate partion size increase or decrease 
+11) Linux Basic commands.
+12) Install Ansible 
