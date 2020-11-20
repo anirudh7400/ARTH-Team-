@@ -10,3 +10,4 @@ Team Members:
 
 2. Anirudh Bambhania
 * main.py
+* voice menu
