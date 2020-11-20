@@ -31,7 +31,7 @@ while True:
 	if r=="remote":
 		os.system(" espeak-ng 'hello and welcome to the menu ,  i am your voice assistant' ")
 		with sr.Microphone() as source:
-				print("start saying ..... ")
+				print("start saying .... ")
 				audio=k.listen(source)
 				print("ok done ....")
 		ab=k.recognize_google(audio)		
