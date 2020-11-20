@@ -9,5 +9,5 @@ Team Members:
 * docker.py
 
 2. Anirudh Bambhania
-* main.py
+* menu.py
 * voice menu
