@@ -3,7 +3,7 @@ import threading
 
 s = socket.socket(socket.AF_INET , socket.SOCK_DGRAM)
 
-s.bind(("192.168.43.106",5678))
+s.bind(("192.168.43.128",5678))
 
 def a():
    while True: 
